@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short relation of what is believed amongst the people of God touching the divers points of religion. 1. Concerning the Word of God, the fall of man, and restauration by Christ. 2. Concerning the Scriptures. 3. Concerning faith, love and works. 4. Concerning baptism and the Lords Supper. 5. Concerning the Sabbath. 6. Concerning tythes. 7. Concerning swearing. Although many of the servants of God have born a large testimony in these latter dayes, in which the Lord is establishing the mountain of his own house a top of all mountains, Isaiah 2. 2. ... therefore in love to the truth, and in the motion of the gift received, I give my testimony of these things in the year 1666. Peter Hardcastle.</title>
+            <author>P. H. (Peter Hardcastle), d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45529</idno>
+            <idno type="STC">Wing H697A</idno>
+            <idno type="STC">ESTC R221273</idno>
+            <idno type="EEBO-CITATION">99832606</idno>
+            <idno type="PROQUEST">99832606</idno>
+            <idno type="VID">37080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2147:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short relation of what is believed amongst the people of God touching the divers points of religion. 1. Concerning the Word of God, the fall of man, and restauration by Christ. 2. Concerning the Scriptures. 3. Concerning faith, love and works. 4. Concerning baptism and the Lords Supper. 5. Concerning the Sabbath. 6. Concerning tythes. 7. Concerning swearing. Although many of the servants of God have born a large testimony in these latter dayes, in which the Lord is establishing the mountain of his own house a top of all mountains, Isaiah 2. 2. ... therefore in love to the truth, and in the motion of the gift received, I give my testimony of these things in the year 1666. Peter Hardcastle.</title>
+                  <author>P. H. (Peter Hardcastle), d. 1693.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by cataloger.</note>
+                  <note>Pages stained with some print show-through, and cropped at head with slight loss of print.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37080:1" rendition="simple:additions"/>
+            <p>Short RELATION Of what is believed amongſt The People of GOD Touching divers Points of RELIGION.</p>
+            <list>
+               <item>1. Concerning the Word of God, the fall of man, and Re<g ref="char:EOLhyphen"/>ſtauration by Chriſt.</item>
+               <item>2. Concerning the Scriptures.</item>
+               <item>3. Concerning Faith, Love and Works.</item>
+               <item>4. Concerning Baptiſm and the Lords Supper.</item>
+               <item>5. Concerning the Sabbath.</item>
+               <item>6. Concerning Tythes.</item>
+               <item>7. Concerning Swearing.</item>
+            </list>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many of the ſervants of God have born a large teſtimo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in theſe latter dayes, in which the Lord is eſtabliſhing the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his own houſe a too of all mountains, Iſaiah 2.2. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1. yet the enemy the old Serpent beſtirs himſelf, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts up his tail, thinking to caſt the ſtars to the ground, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the work of the Lord in his people, by caſting ſtumb<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> blocks before them, and by falſe accuſations: therefore in love to the truth, and in the motion of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e gift received, I give my teſtimony of theſe things in the year <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1666.</p>
+            <p>PETER HARDCASTLE.</p>
+            <q>
+               <p>The hour is coming, and now is, when the dead ſhall hear the voice of the Son of God, and they that hear ſhall live, ſaith Chriſt, wherefore awake thou that ſleepeſt, and ariſe from the dead, and Chriſt ſhall give thee light.</p>
+               <bibl>Eph. 4.15.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37080:2"/>
+            <pb n="1" facs="tcp:37080:2" rendition="simple:additions"/>
+            <div type="part">
+               <head>Concerning the Word of God.</head>
+               <p>THe Word was in the beginning before the Scrip<g ref="char:EOLhyphen"/>tures were written, before the heavens or the earth were made, or any viſible thing therein: before man or woman was created, who was the only begotten Son of God, by whom God made the heavens and the earth, unto whom God ſaid, <hi>Let us make man in our Image:</hi> ſo by the Word, the only begotten Son of God, the hea<g ref="char:EOLhyphen"/>vens, and the earth, and all things therein were made. And in the Image of God, man and woman was made, and God gave them dominion over the beaſts of the field, and the foules of the aire, and every creeping thing, yea over the Serpent, the moſt ſubtil of all the beaſts, man had dominion, ſo long as he ſtood in the Counſel of his Creator, and kept his Command; this was the bleſſed eſtate before the Fall, man in the image of God in righteouſneſs, and holineſs, in innocency, in love with God, and all his creatures: Oh who can declare of this bleſſed eſtate, and not fall ſhort, my tongue cannot utter it. I am but a little child, yet according to the opening of the life in me I ſpeak a little of theſe things, but the Serpent which is the devil, through his ſubtilty tempted the woman to break the Command of God: and the woman tempted the man, and they both broak the Command of God, and eate of the tree of Knowledge, ſo ſin entred, and death came over them: they died to the righteous life:
+<pb n="2" facs="tcp:37080:3"/>Innocency was loſt: then they ſaw their nakedneſs, and were both aſhamed, and they became lyable to the curſe and wrath of God, and was driven from the pre<g ref="char:EOLhyphen"/>ſence of the Lord: On ſad eſtate! who can declare it! man once in Innocency in the heavenly Image, now in the earthly: once a living ſoul, now is death come over him: once partaker of the bleſſings of God, but now lyable to the curſe: and this is the ſad Eſtate of all mankind in the fall: And out of this ſad and wo<g ref="char:EOLhyphen"/>ful eſtate, man by all his wiſdom and power of him<g ref="char:EOLhyphen"/>ſelf cannot any way deliver himſelf, but muſt lye ſinder the wrath of God for ever, except the Lord re<g ref="char:EOLhyphen"/>deem him.</p>
+               <p>But the Lord who is rich in mercy, love and com<g ref="char:EOLhyphen"/>paſſion toward mankind, ordained a Saviour and De<g ref="char:EOLhyphen"/>liverer, by whoſe power, man might through faith in him be reſtored and redeemed out of the fall and wo<g ref="char:EOLhyphen"/>ful eſtate; which Saviour and Deliverer is his only begotten Son, the Son of his Love, which lay in his boſome, him did God ordain: and in his appoint<g ref="char:EOLhyphen"/>ed time, ſent him into the world, he who is called in the Scriptures, The Word of God, The Light of the World, the Seed (Chriſt) the Corner ſtone, the rock of Ages, the power of God, theſe and ſuch like names and titles ſignifie the one holy thing which God ſent into the world, which took upon him the ſeed of <hi>David</hi> according to the fleſh, and became man, and preacht the kingdom of God, and the Goſpel of the kingdom, opened the eyes of the blind, made the deaf to hear, and the dumb to ſpeak: by theſe and ſuch like Miracles he was approved of God, and ma<g ref="char:EOLhyphen"/>ny belived he came from God; but the Jews, the Scribes, and the Phariſees, and chief Prieſts
+<pb n="3" facs="tcp:37080:3" rendition="simple:additions"/>cauſed him to be put to death: ſo he ſuffered in the fleſh, but was quickened by the Spirit and power of God, which power he received of his Father, to lay down his life, and take it up again, and in the Lords time entred into his glory, which he had with his Fa<g ref="char:EOLhyphen"/>ther before the world began, and now is at Gods right hand in a glorious celeſtial body, and by his power he miniſters life to his ſanctified ones, and with his light enlightens every man that cometh into the world, that all men through the light may believe, and come to Repentance: And as many as receive the light, by be<g ref="char:EOLhyphen"/>lieving in it, they receive power, and by the power of God, ſin is wrought out of the creature, which came in by the power of darkneſs in the fall: and ſo as man becomes dead to ſin, be becomes alive to God, and ſo the Image of God comes to be reſtored, and man into the Image of God again, and this all done by Chriſt the power of God: ſo let fleſh be ſilent, and man de<g ref="char:EOLhyphen"/>ny himſelf, and lye in the duſt before the Lord, and exalt his great and glorious name, who alone is wor<g ref="char:EOLhyphen"/>thy to receive Honour, and glory, who hath redeemed, and is redeeming many unto himſelf, that they may ſit down with <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> and all the ſanctified ones in his heavenly Kingdom for ever<g ref="char:EOLhyphen"/>more.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Scriptures</head>
+               <p>THe Scriptures that were ſpoken by the holy men of God, as they were moved by the holy ghoſt, are the Words of God, and a true declaration of the mind of God, and of thoſe things which were moſt ſurely believed amongſt them, who were eye-witneſſes
+<pb n="4" facs="tcp:37080:4"/>and Miniſters of the Word <hi>Luke</hi> 1, 1, 2. <hi>Exod.</hi> 20.1. <hi>Exod.</hi> 4.15. <hi>Chap,</hi> 19, 6. <hi>Chap.</hi> 24, 3. <hi>&amp;</hi> 4.8. <hi>Deut.</hi> 1.1. <hi>Chap.</hi> 4.36. <hi>Micha</hi> 2.7. <hi>Deut.</hi> 18.18. <hi>Chap.</hi> 31.5. <hi>Ecleſ.</hi> 12.10, <hi>Rev.</hi> 1.3. <hi>Chap.</hi> 22.18. And <hi>Jude</hi> ſaith in his Epiſtle, <hi>Remember ye the words which were ſpoken before of the Apoſtles of our Lord Jeſus Chriſt:</hi> Many more Scriptures might be added to prove the Scriptures that were ſpoken from the Spirit, to be the Words of God, but theſe are ſufficient to inform the ſimple, and convince the gain-ſayer. The Scriptures are ſerviceable to the Children of Light, who have the ſame ſpirit that gave them forth. But they who are guided by another ſpirit, wreſt the Scriptures to their own confuſion.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Faith.</head>
+               <p>FAith is a pure and perfect Gift of God: An evi<g ref="char:EOLhyphen"/>dence of things not ſeen with any carnal eye: And as Hearing comes by the Word of God, even ſo Faith comes by Hearing: For who can believe in him of whom they have not heard: This is the living faith which ſtands not in mans wiſdom, but in the power of God. And by the operation of this pure living faith in the power of God, man comes to wit<g ref="char:EOLhyphen"/>neſs his heart purified from dead works, and ſo comes to have dominion over the ſpirit of the world: and ſaith <hi>John</hi> in his Epiſtle, <hi>Chap.</hi> 5. <hi>verſe</hi> 4. <hi>This is the Victory that overcometh the world, even our Faith.</hi> And whatever ſacrifice is offered to God out of this living faith, is ſin, and the Lord hath no delight in it, and therefore the Lord had no reſpect to <hi>Cain</hi> and his of<g ref="char:EOLhyphen"/>fering: neither hath he any reſpect at this day to them
+<pb n="5" facs="tcp:37080:4" rendition="simple:additions"/>that offer in <hi>Cains</hi> nature, therefore are they wroth, and perſecutes the juſt: ſo people may ſee in the light, from what ſpirit perſecution ariſeth about Reli<g ref="char:EOLhyphen"/>gion and worſhip of God. And by the living faith in the power many Miracles and wonderful works were wrought both in <hi>Moſes</hi>'s dayes, and the Prophets dayes, and Chriſts, and the Apoſtles dayes, the deaf heard, the blind came to ſee, the lame walked, and the dead was raiſed to life again; even ſo now in this our day, by faith in the ſame power, the deaf comes to hear, and the eye which the God of the world had blinded, is opened; and the ſoule which had laid dead under deaths dominion, is raiſed to life: Bleſſed be the Lord God Almighty for evermore, ſaith my ſoul.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Love.</head>
+               <p>LOve is of God, for God ſo loved the World, that he gave his only begotten Son a light into the world, that whoſoever believeth in him ſhould not periſh, but have everlaſting life: and this is the free Love of God unto mankind; and where this Love prevails upon the hearts of people, they come to love God who firſt loved them, and are made willing to obey his voice, and do his will in what he requires of them: And it was the Love of God in times paſt which made his people endure Tryals and Tribulations of what kind ſoever they were. And the ſame love in this our day makes the people of God willing to in<g ref="char:EOLhyphen"/>dure Trials and Tribulations of what kind ſoever the Lord permits to come unto them, for the tryal of their Faith and patience; and not only ſo, but it cauſeth them to love their enemies alſo; becauſe Chriſt
+<pb n="6" facs="tcp:37080:5"/>commands it, and becauſe God loved them when they were enemies to him by wicked works. Chriſt ſaith, <hi>Love your Enemies, Bleſs them that curſe you, do good to them that hate you, pray for them that deſpitefully uſe you and perſecute you, that ye may be the children of your father which is in heaven.</hi> Theſe things are fulfilled a<g ref="char:EOLhyphen"/>among the children of God, born of incorruptible ſeed. But as it was in time paſt, ſo it is now, He that is born after the fleſh, perſecutes him that is born after the ſpi<g ref="char:EOLhyphen"/>rit: but let the little children continue in the love of God, and keep the word of his patience: for ſaith one in a certain place, They overcame by the blood of the Lamb, and by the word of their teſtimony, and they loved not their lives unto death.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Works.</head>
+               <p>GOod Works are ſuch as proceed from the ſpirit of God the fountain, from whence all good comes. And they who keep in the living faith, it works by love, and where the love of God is in the heart, there ariſeth good thoughts, and good words, and good works. And here the good tree is known that brings forth good fruit: but on the contrary, ſuch as are guided by the ſpirit of the world, are out of the faith and love of God, and from ſuch ariſeth evil thoughts, and evil words, and bad works: and here the evil tree is known that can<g ref="char:EOLhyphen"/>not bring forth good fruit: And to the root of this tree the Axe is laid to hew it down even for the fire: ſo the children of Light, they diſcern what the tree is by its fruit, and what the fountain is, by the water that ſprings from it.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:37080:5" rendition="simple:additions"/>
+               <head>Concerning Baptiſm.</head>
+               <p>THere is one Baptiſm effectual to ſalvation accord<g ref="char:EOLhyphen"/>ing to Epheſ. 4.5. 1 Epiſtle of Peter 3.21. Of which, Water-Baptiſm is an Figure: And this is the Baptiſm of Chriſt which is with the holy Ghoſt, and with fire, which both <hi>Moſes</hi>'s Baptiſm and <hi>Johns</hi>'s Bap<g ref="char:EOLhyphen"/>tiſm figured forth, and they both pointed at Chriſt. For ſaith <hi>Moſes,</hi> Deuteronomy 18.15. <hi>The Lord thy God will raiſe up unto thee a Prophet like unto me, unto him ſhall ye hearken.</hi> And ſaith <hi>John, I indeed paptize you with water unto Repeatance, but he that cometh after me he ſhall baptize you with the holy Ghoſt and with fire, whoſe fan is in his hand, and he will throughly purge his floor, and gather his Wheat into his garner, but will burn up the chaff with unquenchable fire:</hi> And this is the Baptiſm which is in the name of the Father, Son and holy Ghoſt; and they who come to this Baptiſm, they know the fan in the hand, and the purging of the floor, and the gathering of the wheat into the garner, and the burning of the chaff, and the old man plunged in<g ref="char:EOLhyphen"/>to death, and the new man raiſed unto life, which is the ſumme and ſubſtance of all; and the ſubſtance be<g ref="char:EOLhyphen"/>ing come, the ſhadows fly away. And ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>By one ſpirit are we all baptized into one body,</hi> 1 Cor. 12.13.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Lords Supper.</head>
+               <p>THe Lord hath prepared a Supper for all his ſervants who are made willing to labour in the day, and do the work that God appoints them. And bleſſed are all
+<pb n="8" facs="tcp:37080:6"/>they who are accounted worthy to come to the Lords Supper, they are ſuch as are turned from darkneſs to light, from the power of Sathan unto God, and waits upon God, that they may know his will and do it, that they may be redeemed from ſin, and have their fruit unto holineſs, Rom. 6.22. Theſe partake of the true bread that comes from above, which is Chriſt: they are members of his body, and eats of his fleſh, and drinks of his blood, and ſo are kept alive unto God: and ſaith he, <hi>Behold I ſtand at the door and knock, if any man hear my voice and open the door, I will come in to him, and ſup with him and he with me,</hi> Rev. 3.20. Now they who witneſs him come, have no need to receive the bread and the cup outwardly, which was commanded to ſhew forth his death untill he came; But they at whoſe door he knocks, and can have no entrance, he neither ſups with them nor they with him, and yet theſe may eat the bread and drink of the cup outward<g ref="char:EOLhyphen"/>ly, and have neither Union nor Communion with the Saints, but remains in ſin and iniquity, and heathen<g ref="char:EOLhyphen"/>iſh abominations, and ſo crucifies the juſt, and puts him to open ſhame with their ungodly deeds.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Sabbath.</head>
+               <p>WHen the Lord had made the heavens and the earth, and all the hoſt of them, he reſted the ſeventh day, which was a ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn of the everlaſting reſt, he w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld bring his people to when they had done their ſervice to him: and when the Lord made a covenant with the children of Iſrael, he commanded them to obſerve every ſeventh day a Sabbath of reſt, and they were a ſign of the everlaſting reſt, <hi>Exod.</hi> 31.13. <hi>Ezekel</hi>
+                  <pb n="9" facs="tcp:37080:6" rendition="simple:additions"/>20.20. And now I bear my teſtimony, that God hath pre<g ref="char:EOLhyphen"/>pared an everlaſting reſt for his people; and ſaith Chriſt <hi>Come unto me all ye that are weary and heavy laden, and I will give you reſt. Take my yoak upon you, and learn of me, and you ſhall find reſt unto your ſouls,</hi> Mat. 11.28, 29. So they who are in the faith, and comes to Chriſt, and learns of him, denyes themſelves, takes up the croſs, and ceaſes from their own works, to do the Will of God: theſe enters into the reſt, and ſits down with <hi>Abraham, Iſaac</hi> and <hi>Jacob</hi> in the Kingdom of heaven: but they who live and die in ſin, they come ſhort of the reſt which God hath ordained for the righteous, and are ſhut out of the Kingdom of God, <hi>For no unclean thing can enter therein;</hi> therefore I ſay as the Apoſtle once ſaid. <hi>Col.</hi> 2.16, 17. <hi>Let no man judge the true Christians in meat or in drink, or in reſpect of an holy day, or of the Sabbath dayes, which are a ſhodow of things to come, but the body is of Chriſt, and Christ is the ſumme and ſubstance of all.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning Tythes.</head>
+               <p>THe Law was added becauſe of transgreſſion, til the ſeed ſhould come, <hi>Gal.</hi> 3.19. and they that were of the Tribe of <hi>Levi,</hi> who had the Office of the Prieſt<g ref="char:EOLhyphen"/>hood, had a Commandment to take Tythes of the people, according to the Law which were of their brethren, and came out of the loins of <hi>Abraham,</hi> but the ſeed Chriſt is come an High-prieſt for ever after the power of an endleſs life: ſo the Prieſt-hood be<g ref="char:EOLhyphen"/>ing changed, there is made of neceſſity a change alſo of the Law, <hi>Heb.</hi> 7. The Prieſt-hood being changed, and the Law fulfilled, and the hand-writing of Ordi<g ref="char:EOLhyphen"/>nances
+<pb n="10" facs="tcp:37080:7"/>taken out of the way, which was againſt us, nailed to the Croſs of Chriſt, <hi>Col.</hi> 2.14. Who is ordained an High-Prieſt over the houſe of God for ever, a Miniſter of the true Tabernacle which the Lord hath pitched, hath power to ordain Miniſters to preach the Goſpel which is the power of God: By which Goſpel of Glad-Tydings unto captivated ſouls, the hearts of people comes to be opened, and love ſprings up to miniſter carnal things to ſuch as have need of them: For ſo hath the Lord ordained, That they who preach the Goſpel, ſhould live of the Goſpel: thus it was with the primitive Chriſtians, before the De<g ref="char:EOLhyphen"/>ceivers and falſe Prophets came in, and the Apoſtacy entred: but Chriſt declared of falſe Prophets that ſhould come in ſheeps cloathing, but were inwardly revening wolves, by their fruits they ſhould be known. And <hi>Peter</hi> ſaith in his ſecond Epiſtle 2.3. <hi>That through coveteouſneſs with fained words, would they make mer<g ref="char:EOLhyphen"/>chandize of them.</hi> And <hi>Paul</hi> ſaid, <hi>That grievous wolves would enter in, not ſparing the Flock,</hi> Acts 20.29. And in his Epiſtles deſcribes them more fully, and calls them <hi>Covetous, and proud<g ref="char:punc">▪</g> Truce-Breakers, without natural affection, high-minded, and lovers of Pleaſures more then lovers of God.</hi> And <hi>Jude</hi> declares in his Epiſtle, They were entred in, and ſaid, woe unto them, they went in the way of <hi>Gain,</hi> and ran greedily after the error of <hi>Balaam</hi> for Rewards. And <hi>John</hi> ſaith in his firſt E<g ref="char:EOLhyphen"/>piſtle, 2 chap. Little children it is the laſt time, and as ye have heard that Antichriſt ſhall come, even now there are many Antichriſts, whereby we know that it is the laſt time, they went our from us. Now by theſe Antichriſts falſe Prophets and Deceivers which entred in the Apoſtles time, but more abundantly after, came
+<pb n="11" facs="tcp:37080:7" rendition="simple:additions"/>in the Apoſtacy, they being gone from the life and power of God themſelves, drew others after them: ſo when the life and power of God was departed, dark<g ref="char:EOLhyphen"/>neſs came over, the night came over the day, and people wrought in the dark, and built Idol-Temples, or Maſs-houſes, and ſet up Croſſes and Images, and brought in Tythes again, which the Lord never com<g ref="char:EOLhyphen"/>manded them: but now is the day dawned again, after the long and dark night of Apoſtacy, and the Son is riſen, and many are witneſſes of him: and ſuch are made willing to ſuffer impriſonment of their bodies, or ſpoiling of their goods, rather than to pay Tythes to Prieſts, or money to repair Steple-Houſes: and now many of them are wroth as <hi>Cain</hi> was, and prepairs War, as in time paſt, <hi>Micha</hi> 3. and ſo they make it manifeſt by their fruits, they are of the falſe Prophets and Deceivers, that Chriſt and the Apoſtles told us of.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Swearing.</head>
+               <p>WHile man ſtood in the Counſel of God, in righ<g ref="char:EOLhyphen"/>teouſneſs and Innocency before the fall, there was no need of Oathes: but when man was fallen from God his Maker, and loſt the Image of God, death came over, and hardneſs of heart and unbelief came in, and then oaths were uſed to confirm promiſes, and end controverſies: and leſt the Jews ſhould ſerve other gods then he that brought them out of Egypt, he com<g ref="char:EOLhyphen"/>manded them to ſwear by his name: but from the be<g ref="char:EOLhyphen"/>ginning it was not ſo: but Chriſt is come, the begin<g ref="char:EOLhyphen"/>ning and the end, the firſt and the laſt to reſtore man a<g ref="char:EOLhyphen"/>gain into that which he was in the beginning: as it is written, The Son of man is come to ſeek and to ſave
+<pb n="12" facs="tcp:37080:8"/>that wich was loſt: ſo when the Image of God is re<g ref="char:EOLhyphen"/>ſtored again, and man into the image, there is no need of Oathes, but every man will ſpeak the truth; and therefore ſaid Chriſt unto his Diſciples, <hi>Ye have heard that it hath been ſaid by them of old time, thou ſhalt not forſwear thy ſelf, but ſhalt perform unto the Lord thine Oathes: but I ſay, Swear not at all:</hi> This is Chriſts command unto his own: and <hi>Moſes</hi> commanded to hear Chriſt, <hi>Deut.</hi> 18. And when <hi>Moſes</hi> and <hi>Elias</hi> talked with Jeſus in the holy Mount, <hi>Peter, James</hi> and <hi>John</hi> heard the voice from the excellent Majeſty, which ſaid, This is my well beloved Son in whom I am well pleaſ<g ref="char:EOLhyphen"/>ed, hear him: Now how can any Chriſtian ſwear, and not break the command of Chriſt. And <hi>James</hi> ſaith, Above all things my brethren, Swear not, neither by heaven nor by earth, neither by any other Oath, but let your yea be yea, and your nay nay, leſt you fall in<g ref="char:EOLhyphen"/>to condemnation. Hence it is that the true chriſtians rather then break the command of Chriſt, and fall into condemnation, are made willing to ſuffer impriſon<g ref="char:EOLhyphen"/>ment, or what may be permitted to come for the tryal of their faith, knowing in themſelves an induring ſub<g ref="char:EOLhyphen"/>ſtance. And ſaith <hi>Chriſt, Bleſſed are they that ſuffer per<g ref="char:EOLhyphen"/>ſecution for righteouſneſs ſake, for theirs is the kingdom of heaven.</hi>
+               </p>
+               <trailer>The End.</trailer>
+               <pb facs="tcp:37080:8" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
